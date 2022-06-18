@@ -17,7 +17,9 @@
 </p>
 
 <a><h3>Heroku</h3></a>
+<hr>
 <h5>This is also deployed on Heroku : https://bank-solutions.herokuapp.com/</h5>
 
 <a><h3>Frontend :computer: </h3></a>
+<hr>
 <h5>To see the frontend of the app . Go to repo : https://github.com/Kaivalya4/Banking-Solutions-frontend</h5>
