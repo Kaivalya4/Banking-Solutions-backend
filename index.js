@@ -56,7 +56,7 @@ app.post('/transfer' ,(req,res) => {
             });
         }
     })
-    res.redirect('https://kaivalya4.github.io/Banking-Solutions-frontend/FrontEnd/Pages/Customer.html');
+    res.redirect('https://kaivalya4.github.io/Banking-Solutions-frontend/Pages/Customer.html');
 } )
 
 app.get('/details/:acc' , (req,res) => {
