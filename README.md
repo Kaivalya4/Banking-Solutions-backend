@@ -10,10 +10,10 @@
 <a><h3>API calls :telephone_receiver: </h3></a>
 <hr>
 <p>
-  GET /all  => to get details of all customer
-  GET /details/:acc => to get transaction details for the account number = acc
-  PUT /:accno => to get details of customer with account number = accno
-  POST /transfer => t0 trnasfer money from one customer to other
+  <li>GET /all  => to get details of all customer</li>
+  <li>GET /details/:acc => to get transaction details for the account number = acc</li>
+  <li>PUT /:accno => to get details of customer with account number = accno</li>
+  <li>POST /transfer => t0 trnasfer money from one customer to other</li>
 </p>
 
 <a><h3>Heroku</h3></a>
